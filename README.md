@@ -1,15 +1,17 @@
-# java-study-group
-Collection of links for studying the Java ecosystem.
+# fp-study-group
+Collection of links for studying the functional programming.
 
-## Getting started
-
-- https://www.oracle.com/java/technologies/javase-downloads.html
-
-## Thinking in type,shape and function signature
+## Thinking in type, shape and function signature
 
 - https://hackmd.io/CBQPxR3ySpSc5ALiIkac0w
 
 ## Functional programming with vanilla Java
+
+Modern functional programming semantics were added to the Java
+language in version 8, around 2014. This is shows the native 
+way before Java 8 to the modern way in Java 8 and after.
+
+- https://www.oracle.com/java/technologies/javase-downloads.html
 
 - From https://mkyong.com/java8/java-8-filter-a-map-examples/
 
@@ -62,6 +64,5 @@ public class TestMapFilter {
         System.out.println("With Java 8 : " + result);
 
     }
-
 }
 ```
