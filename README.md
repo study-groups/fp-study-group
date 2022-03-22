@@ -1,5 +1,5 @@
 # fp-study-group
-Collection of links for studying the functional programming.
+Collection of links for studying functional programming.
 
 ## Current 2022
 
